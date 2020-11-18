@@ -12,4 +12,4 @@ popular math methods such as : sqrt(); getFactorial() in this repository
 [Facebook](https://facebook.come/giao.lang.bis)
 [Email] (mailto: duyhvse140985@pft.edu.vn)
 
-#### © 2020 by giao.lang | FPT University, HCMC
+#### © 2020 by Duy Ho | FPT University, HCMC
