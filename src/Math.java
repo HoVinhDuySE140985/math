@@ -36,3 +36,7 @@ public class Math {
 // tool co the la cmd, GUI ,(Git Desktop, Source Tree)
 // vi ta la pro, ta choi cmd
 // cai git csm da noi tai trc
+// can file dac biet de noi vs git tool rang ai len server ai ow lai local file nay goi la file.gitignore
+// no se khac nhau content tuy vao IDE mminh sai , ngon ngu lap trinh minh sai
+// co 1 ga dep cuc ky de thuong , lam san nhung file ung vs cac IDE , NNLT roi
+//vo duong dan de lay file do  https://gitignore.io
