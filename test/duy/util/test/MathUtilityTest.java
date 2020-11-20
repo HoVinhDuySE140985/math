@@ -6,6 +6,7 @@
 package duy.util.test;
 
 import duy1.Utility.MathUtility;
+import java.sql.SQLException;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -39,7 +40,10 @@ public class MathUtilityTest {
     
     @Test(expected = IllegalArgumentException.class)
     public void getFactorial_ThrowException_IfvalidArgument(){
+        
         MathUtility.getFactorial(-5);
         
     }
+    // tui muo thay mau xanh tren server vaf thay tich xanh
+    
 }
