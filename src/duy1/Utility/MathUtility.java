@@ -13,7 +13,7 @@ public class MathUtility {
     
     public static final double PI = 3.14;
     
-    public static long getFactorial(int n){
+    public static int getFactorial(int n){
         if( n< 0 || n > 20)
             throw new IllegalArgumentException("N must be between 0..20");
         
@@ -23,9 +23,9 @@ public class MathUtility {
         // ngay cho nay chinh la n= 0..20
         long result = 1;
         for (int i = 2; i <= n ; i++) {
-            result *= 1;
+            result *= i;
         }
-        return result;
+        return (int) result;
     }
 }
 // ta tu tin ham ta chay dc , chay dung
